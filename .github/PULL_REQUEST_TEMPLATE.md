@@ -5,6 +5,7 @@ is true:
 
 1. You have followed the [contributing guidelines][1]
 2. The repositories you have linked are owned by you or you have permission to link them.
+3. The PRs title is followed by your name eg. "Added solutions for <YYYY> - <First> <Last>"
 
 Any questions should be directed to @MonashDeepNeuron/executives.
 
@@ -29,6 +30,12 @@ eg.
 ## Solutions changes
 
 Detail if any changes are updates to links.
+
+X
+
+## Additional Changes
+
+Any additional changes.
 
 X
 
